@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{3AF57626-1B90-430D-AA89-CD2EE85C3314}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BMIApp/Program.cs">
+    <Files>
+      <File FileName="BMIApp/Program.cs" Line="16" Column="2" />
+      <File FileName="BMIApp/BMI.cs" Line="3" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BMIApp" expanded="True">
+            <Node name="BMIApp" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BMIApp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

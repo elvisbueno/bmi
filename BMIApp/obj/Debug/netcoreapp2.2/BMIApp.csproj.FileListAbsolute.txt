@@ -1,0 +1,10 @@
+/Users/ironman/Desktop/BMIApp/BMIApp/bin/Debug/netcoreapp2.2/BMIApp.deps.json
+/Users/ironman/Desktop/BMIApp/BMIApp/bin/Debug/netcoreapp2.2/BMIApp.runtimeconfig.json
+/Users/ironman/Desktop/BMIApp/BMIApp/bin/Debug/netcoreapp2.2/BMIApp.runtimeconfig.dev.json
+/Users/ironman/Desktop/BMIApp/BMIApp/bin/Debug/netcoreapp2.2/BMIApp.dll
+/Users/ironman/Desktop/BMIApp/BMIApp/bin/Debug/netcoreapp2.2/BMIApp.pdb
+/Users/ironman/Desktop/BMIApp/BMIApp/obj/Debug/netcoreapp2.2/BMIApp.AssemblyInfoInputs.cache
+/Users/ironman/Desktop/BMIApp/BMIApp/obj/Debug/netcoreapp2.2/BMIApp.AssemblyInfo.cs
+/Users/ironman/Desktop/BMIApp/BMIApp/obj/Debug/netcoreapp2.2/BMIApp.dll
+/Users/ironman/Desktop/BMIApp/BMIApp/obj/Debug/netcoreapp2.2/BMIApp.pdb
+/Users/ironman/Desktop/BMIApp/BMIApp/obj/Debug/netcoreapp2.2/BMIApp.csprojAssemblyReference.cache
